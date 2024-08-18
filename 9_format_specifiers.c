@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+// deceleraring constant
+#define PI = 3.14 
+
 int main(void){
 
     int a = 4;
@@ -10,7 +13,15 @@ int main(void){
 
     printf("%.3f\n",b);            // rounds off to that decimal value
     printf("%10.3f\n",b);          // takes 10 chracter space , causes some space before
-    printf("%-10.3f",b);           // takes 10 character space, causes some space after     
+    printf("%-10.3f",b);           // takes 10 character space, causes some space after 
+
+    // const
+    
+    const int c = 9;  
+
+    // beep
+
+    printf("\a Hello");
 
 }
 
@@ -22,4 +33,7 @@ int main(void){
 %lf = double
 %Lf = long double
 
+*/
+/*
+Escape sequence characters are counteed as one character
 */
