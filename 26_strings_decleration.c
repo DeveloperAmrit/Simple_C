@@ -60,7 +60,7 @@ int main(){
 
 }
 
-/**
+/*
  * String is not a datatype in c.
  * We represent string as an array of characters ending with Null terminator \0
  */
