@@ -29,7 +29,7 @@ int main(){
 
 // &amrit = address of amrit 
 // *a = program treats value of a as an adress of some other variable and search for this address and goes for that varible's value
-// * is called indirection operator
+// * is called indirection operator or derefernce operator
 
 // int *p = &a : decleration and assignment of pointer
 // p : address of a

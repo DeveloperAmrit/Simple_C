@@ -3,7 +3,7 @@
 int main(){
     // int n = NULL; cannot do this
 
-    int *ptr = NULL;
+    int* ptr = NULL;
     printf("%d %d",ptr);
 }
 
