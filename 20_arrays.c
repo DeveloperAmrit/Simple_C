@@ -28,3 +28,5 @@ void printMatrix(int rows,int columns, int matrix[rows][columns]){
         printf(" |\n");
     }
 }
+
+// accessing array elements , a[i] , i[a], *(a+i)
