@@ -23,3 +23,5 @@ void print1DArray(int* array,int length){
         printf("%d ",array[i]);
     }
 }
+
+// if you change any value of array in function, it changes the actual array of main
